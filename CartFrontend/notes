@@ -1,0 +1,5 @@
+1)lazy loading - process of loading componenets and modules, it improves application load time speed.
+        ng g m products --route products --module app.module
+
+2)integration 
+3)search- ng g p pipes/filter

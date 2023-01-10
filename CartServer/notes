@@ -1,0 +1,18 @@
+1) creating package.json file
+2) creating node modules
+3) create index.js file
+4) import express inside index.js
+5) using express create an api
+6) setup port number
+7) use json parser for server application
+8) install cors & import cors
+9) using cors 
+10) api fetch
+11) create db and collection in database
+12) install mongoose to establish connection between server and mongodb
+13) create model and schema
+14) export model 
+15) resolving api request in index.js to implement logic in dataservice
+20) import db in dataservice
+21) node and mongodb connection successful
+22) api to get all products
